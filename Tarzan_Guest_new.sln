@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarzan_Guest_new.CSharp", "Tarzan_Guest_new.CSharp.csproj", "{440D02B7-D6FD-FFDC-AD34-0AFD714189C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarzan_Guest_new.CSharp.Editor", "Tarzan_Guest_new.CSharp.Editor.csproj", "{BA936311-0BFC-2BB5-D8A0-3124AF4C868A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{440D02B7-D6FD-FFDC-AD34-0AFD714189C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440D02B7-D6FD-FFDC-AD34-0AFD714189C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440D02B7-D6FD-FFDC-AD34-0AFD714189C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440D02B7-D6FD-FFDC-AD34-0AFD714189C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA936311-0BFC-2BB5-D8A0-3124AF4C868A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA936311-0BFC-2BB5-D8A0-3124AF4C868A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA936311-0BFC-2BB5-D8A0-3124AF4C868A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA936311-0BFC-2BB5-D8A0-3124AF4C868A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

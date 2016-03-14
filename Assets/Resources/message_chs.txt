@@ -1,0 +1,47 @@
+login001:Notice
+login002:Wrong User Name!
+login003:Wrong Password!
+login004:Login Fail
+login005:Name：
+login006:Password：
+login007:Please Enter User ID
+login008:Please Enter Password
+account001:Notice
+account002:Wrong Password!
+account003:Wrong Password!
+account004:Wrong Phone Number!
+account005:Wrong Phone Number!
+account006:Wrong Phone Number!
+account007:Setting Fail!
+account008:Name：
+account009:Password：
+account010:Confirm Password：
+account011:Phone Number：
+account012:Confirm Phone Number：
+account013:Please Enter Password
+account014:Please Enter Password
+account015:Please Enter Phone Number
+account016:Please Enter Phone Number
+rank001:integral
+rank002:My current position
+rank003:Reward
+rank004:top {0}, score {1} 
+rank005:Fail
+rank006:Out of day
+play001:No points
+play002:Weekly Top Score
+play003:Your Reward
+play004:Win
+play005:You Win!
+play006:Lose
+play007:Not Match NEWLINE Please try again.NEWLINE Thank you.
+play008:First Login
+play009:Feel Lucky Today！
+play010:WOW NEWLINE You gets {0} points NEWLINE Congratulations!
+play011:Not Marched! please try again!
+net001:Internet Failure
+test:I Gets{0}Points{1}
+appID:001
+url_post:http://202.79.223.246:8080/game/
+url:http://202.43.35.105/game
+#url:http://andyjins.gnway.cc:8888/game

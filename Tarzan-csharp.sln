@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4DE84836-0ED5-3B99-9421-A6024CE41516}") = "Tarzan", "Assembly-CSharp-vs.csproj", "{00306EEB-7F86-41B6-A050-2E0E68F15DC6}"
+EndProject
+Project("{4DE84836-0ED5-3B99-9421-A6024CE41516}") = "Tarzan", "Assembly-CSharp-Editor-vs.csproj", "{B96423D3-122A-6B30-6D06-227A4EF64405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00306EEB-7F86-41B6-A050-2E0E68F15DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00306EEB-7F86-41B6-A050-2E0E68F15DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00306EEB-7F86-41B6-A050-2E0E68F15DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00306EEB-7F86-41B6-A050-2E0E68F15DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B96423D3-122A-6B30-6D06-227A4EF64405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96423D3-122A-6B30-6D06-227A4EF64405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96423D3-122A-6B30-6D06-227A4EF64405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96423D3-122A-6B30-6D06-227A4EF64405}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																																																																																																																																																																									GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
